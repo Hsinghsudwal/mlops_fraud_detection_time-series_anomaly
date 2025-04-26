@@ -19,4 +19,4 @@
 Some statement
 
 ## Orchestration
-data_generator==> data_collection==>data_preprocessor==>model_training==>serving==>monitoring==>governance
+data_generator==>data_collection==>data_preprocessor==>model_training==>serving==>monitoring==>governance
